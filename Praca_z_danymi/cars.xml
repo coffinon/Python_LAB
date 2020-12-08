@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<cars>
+	<car>
+		<name>Passeratti</name>
+		<year>1969</year>
+		<color>Czerwony</color>
+	</car>
+	<car>
+		<name>Multipla</name>
+		<year>2077</year>
+		<color>Rozowy</color>
+	</car>
+	<car>
+		<name>BMW E36</name>
+		<year>1999</year>
+		<color>Czarny</color>
+	</car>
+	<car>
+		<name>Maluch</name>
+		<year>1410</year>
+		<color>Zloty</color>
+	</car>
+</cars>
