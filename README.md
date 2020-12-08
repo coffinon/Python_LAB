@@ -1,1 +1,1 @@
-# Python_LAB
+# Python_LAB - gotowe do oceny
